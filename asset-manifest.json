@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monaco-mui-sync/static/css/main.398379bd.css",
+    "main.js": "/monaco-mui-sync/static/js/main.a64d914d.js",
+    "static/js/787.0f9b843b.chunk.js": "/monaco-mui-sync/static/js/787.0f9b843b.chunk.js",
+    "index.html": "/monaco-mui-sync/index.html",
+    "main.398379bd.css.map": "/monaco-mui-sync/static/css/main.398379bd.css.map",
+    "main.a64d914d.js.map": "/monaco-mui-sync/static/js/main.a64d914d.js.map",
+    "787.0f9b843b.chunk.js.map": "/monaco-mui-sync/static/js/787.0f9b843b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398379bd.css",
+    "static/js/main.a64d914d.js"
+  ]
+}
